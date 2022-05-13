@@ -1,3 +1,3 @@
 ## Play Now!
 
-# [Click Here!](cyclokid.github.io/CycloKid-Bandruf/)
+# [Click Here!](https://cyclokid.github.io/CycloKid-Bandruf/)
